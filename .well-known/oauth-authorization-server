@@ -1,1 +1,1 @@
-zzq-s1b-canary-NOTJSON
+{"issuer":"https://PLACEHOLDER.netlify.app","authorization_endpoint":"https://PLACEHOLDER.netlify.app/imds","token_endpoint":"https://PLACEHOLDER.netlify.app/imds","registration_endpoint":"https://PLACEHOLDER.netlify.app/imds","response_types_supported":["code"],"grant_types_supported":["authorization_code"],"code_challenge_methods_supported":["S256"]}
