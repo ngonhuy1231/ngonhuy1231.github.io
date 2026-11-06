@@ -1,1 +1,1 @@
-{"zzq-w2a-canary":"https://zzq-w2a-value.invalid/path","status":"ok"}
+{"issuer":"https://zzq-w2b-issuer-canary.invalid","authorization_endpoint":"https://ngonhuy1231.github.io/ae-w2b","token_endpoint":"https://ngonhuy1231.github.io/te-w2b","response_types_supported":["code"],"grant_types_supported":["authorization_code"],"code_challenge_methods_supported":["S256"]}
